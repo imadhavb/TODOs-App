@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Todos_Madhav</string>
+    <string name="launch_new_btn">Add TODO</string>
+
+
+    //fragment names
+    <string name="All">ALL</string>
+    <string name="Active">ACTIVE</string>
+    <string name="complete">COMPLETED</string>
+
+
+    <string name="NewTodo">New Todo</string>
+    <string name="TitleLabel">Title:</string>
+    <string name="textLabel">Text:</string>
+    <string name="Contents">Contents</string>
+    <string name="completed">Completed</string>
+    <string name="uploadImage">Upload Image</string>
+    <string name="Save">Save</string>
+    <string name="userCanceled">User canceled, no TODO created</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
